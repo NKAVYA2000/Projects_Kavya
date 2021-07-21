@@ -1,0 +1,9 @@
+AUTO COMPONENTS MANUFACTURING UNIT(Mini project)
+➔ It is the replication of the automobile components supplier unit, which
+involves hierarchical divisional working(Head, Stock Manager,
+Shiftwise managers, and employees) and a shopping portal for the
+automobile industry to purchase.
+➔ Management of raw input supply and production factors.Division of
+labour and wages among the workers. Different access is provided to
+users based on their level. Urge in demand of product mechanism.
+➔ Language: Python, Tkinter, MySQL.
