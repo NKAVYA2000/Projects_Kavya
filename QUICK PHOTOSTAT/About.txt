@@ -1,0 +1,6 @@
+It is a website that involves photostat owners and the users.It facilitates
+the user to host their business. The users can search for the nearest
+stores(if the store is available for service) within the radius of 10 km
+using the Geolocation API and the law of haversines. They can make the
+deal with the shop and get their work done. The billing and payment is
+also included.
